@@ -13,7 +13,7 @@ html{
 }
 
 body{
-    background: url('./images/back2.jpeg');
+    background: url('./images/back2.jpeg') no-repeat center center/cover;
     font-family: "Open Sans", sans-serif;
     font-size: 62.5%;
     letter-spacing: 1.5px;
